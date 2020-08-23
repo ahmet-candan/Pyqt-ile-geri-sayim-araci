@@ -1,0 +1,1 @@
+# Pyqt-ile-geri-sayim-araci
